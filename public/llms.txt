@@ -1,0 +1,79 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+גלי קולקציות תכשיטים ייחודיות בעיצוב אישי. sharon geyor jewelry מציעה תכשיטים מעוצבים בעבודת יד איכותית. כנסי לגלות את הקסם שלנו עכשיו!
+
+### קולקציות
+https://example.com/collections
+דפדפי בקולקציות תכשיטים מרהיבות בהשראת aviv rafael jewelry ו-c clair jewelry instagram. כל פריט הוא יצירת אומנות ייחודית. מצאי את התכשיט המושלם!
+
+### אודות
+https://example.com/about
+הכירי את הסיפור שמאחורי המותג, את תהליך העיצוב והיצירה. אנחנו מתמחים בתכשיטים בעבודת יד עם תשומת לב לכל פרט. גלי את החזון שלנו!
+
+### צור קשר
+https://example.com/contact
+רוצה תכשיט מיוחד או יש שאלות? צרי קשר עכשיו לייעוץ אישי ומקצועי. sharon geyor jewelry כאן בשבילך! נשמח לעזור ולהגשים את החלום שלך.
+
+### Products
+https://example.com/products
+המוצרים שלנו - תכשיטים
+
+### Cart
+https://example.com/cart
+עגלת הקניות שלך
+
+### Checkout
+https://example.com/checkout
+תשלום
+
+### Login
+https://example.com/login
+התחברות לקוחות
+
+### Account
+https://example.com/account
+החשבון שלי
+
+### Order Success
+https://example.com/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://example.com/product/:slug
+פרטי המוצר - תכשיטים
+
+### Category
+https://example.com/category/:slug
+מוצרים - תכשיטים
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
